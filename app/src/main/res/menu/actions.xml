@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:bara="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_favorite"
+          android:icon="@drawable/ic_action_not_important"
+          android:title="@string/action_favorite"
+          bara:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_favorites"
+          android:icon="@drawable/ic_action_labels"
+          android:title="@string/action_favorites" 
+          bara:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_add_to_clipboard"
+          android:icon="@drawable/ic_action_copy"
+          android:title="@string/action_add_to_clipboard"
+          bara:showAsAction="ifRoom" />
+<!--     <item android:id="@+id/action_change_mode" -->
+<!--           android:icon="@drawable/ic_action_slideshow" -->
+<!--           android:title="@string/action_change_to_transition" -->
+<!--           bara:showAsAction="ifRoom" /> -->
+</menu>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Effects -->
+  <string-array name="effects_entries">
+    <item>No effect</item>
+    <item>Emboss</item>
+    <item>Blur</item>
+    <item>Glow</item>
+    <item>Halftone</item>
+    <item>Mirror</item>
+    <item>Outline</item>
+    <item>Pixelate</item>
+    <item>Popart</item>
+    <item>Scanlines</item>
+    <item>Sepia</item>
+    <item>Black and white</item>
+<!--     <item>Fisheye</item> -->
+    <item>Swirl</item>
+    <item>Sketch</item>
+    <item>Oil painting</item>
+    <item>Polka</item>
+    <!-- <item>Toon</item> -->
+    <item>Posterize</item>
+    <item>Glass sphere</item>
+    <item>Vignette</item>
+    <item>Bulge</item>
+    <item>Pinch</item>
+    <item>Cross process</item>
+    <item>Documentary</item>
+    <item>Duotone</item>
+    <item>Fill light</item>
+    <item>Fisheye</item>
+    <item>Sharpen</item>
+    <item>Tints</item>
+<!--     <item>Grain</item> -->
+    <item>Lomoish</item>
+    <item>Negative</item>
+  </string-array>
+  
+  <string-array name="effects_values">
+    <item>null</item>
+    <item>emboss</item>
+    <item>blur</item>
+    <item>glow</item>
+    <item>halftone</item>
+    <item>mirror</item>
+    <item>outline</item>
+    <item>pixelate</item>
+    <item>popart</item>
+    <item>scanlines</item>
+    <item>sepia</item>
+    <item>blackwhite</item>
+<!--     <item>fisheye</item> -->
+    <item>swirl</item>
+    <item>sketch</item>
+    <item>oilpainting</item>
+    <item>polka</item>
+   <!-- <item>toon</item> -->
+    <item>posterize</item>
+    <item>glasssphere</item>
+    <item>vignette</item>
+    <item>bulge</item>
+    <item>pinch</item>
+    <item>crossprocess</item>
+    <item>documentary</item>
+    <item>duotone</item>
+    <item>fillight</item>
+    <item>fisheye</item>
+    <item>sharpen</item>
+    <item>tints</item>
+<!--     <item>grain</item> -->
+    <item>lomoish</item>
+    <item>negative</item>
+  </string-array>
+  
+  <!-- Transitions -->
+  <string-array name="transitions_entries">
+    <item>No transition</item>
+   </string-array>
+   
+  <string-array name="transitions_values">
+    <item>null</item>
+   </string-array>
+</resources>

@@ -1,0 +1,5 @@
+This project is based on :
+ - fragment shader code (polka to pinch) found in https://github.com/BradLarson/GPUImage, 
+ - android-16 source code for shader code (cross process to negative) licensed under apache 2 licence : http://www.apache.org/licenses/LICENSE-2.0,
+ - OpenGLES20 Android sample project as a basis for all source file of the project (licensed under apache 2 licence : http://www.apache.org/licenses/LICENSE-2.0),
+ - FX logo by Ampeross - http://ampeross.deviantart.com/

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Effect and Transition Chooser</string>
+    <string name="action_favorite">Add to favorite</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_add_to_clipboard">Add to clipboard</string>
+    <string name="action_change_to_effect">Effects</string>
+    <string name="action_change_to_transition">Transitions</string>
+	<string name="favorites_title">Favorite effects</string>
+	<string name="favorites_ok">OK</string>
+	<string name="favorites_toast_none">No favorite set</string>
+	<string name="toast_error">Error : this effect may not be supported on your device</string>
+	
+</resources>
